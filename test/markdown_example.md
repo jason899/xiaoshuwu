@@ -1,7 +1,5 @@
 ---
-title: 2017-9-1未命名文件 
-tags: 新建,模板,小书匠
-grammar_cjkRuby: true
+title: markdown_example
 ---
 
 [TOC]
