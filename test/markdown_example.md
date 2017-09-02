@@ -1,5 +1,3 @@
-
-
 [TOC]
 
 # 快速入门
@@ -59,6 +57,7 @@ SELECT 'drop table '||owner||'.'||table_name||';'
 ![配图说明](http://upload-images.jianshu.io/upload_images/1495118-d83a4ccfc711dfe9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![显示链接中带括号的图片][1]
+
 ## 表格
 
 > 注意单元格对齐的写法
@@ -97,24 +96,6 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
-```flow 
-st=>start: Start 
-io=>inputoutput: verification 
-op=>operation: Your Operation 
-cond=>condition: Yes or No? 
-e=>end
-
-st->io->op->cond 
-cond(yes)->e 
-cond(no)->io 
-```
-
-```seq 
-Alice->Bob: Hello Bob, how are you? 
-Note right of Bob: Bob thinks 
-Bob-->Alice: I am good thanks! 
-```
-
 </br>
 
 -------------------
@@ -128,9 +109,9 @@ Bob-->Alice: I am good thanks!
 - TOC目录
 - 时序图
 
-# 图片
+# 图片参考
 ![enter description here][2]
 
 
   [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
-  [2]: ./images/1504367418411.jpg
+  [2]: ./images/1504373920545.jpg
