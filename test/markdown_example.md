@@ -97,6 +97,24 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
+```flow 
+st=>start: Start 
+io=>inputoutput: verification 
+op=>operation: Your Operation 
+cond=>condition: Yes or No? 
+e=>end
+
+st->io->op->cond 
+cond(yes)->e 
+cond(no)->io 
+```
+
+```seq 
+Alice->Bob: Hello Bob, how are you? 
+Note right of Bob: Bob thinks 
+Bob-->Alice: I am good thanks! 
+```
+
 </br>
 
 -------------------
