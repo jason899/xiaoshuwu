@@ -61,9 +61,6 @@ SELECT 'drop table '||owner||'.'||table_name||';'
 ![配图说明](http://upload-images.jianshu.io/upload_images/1495118-d83a4ccfc711dfe9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![显示链接中带括号的图片][1]
-[1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
-
-
 ## 表格
 
 > 注意单元格对齐的写法
@@ -114,3 +111,10 @@ Bob-->Alice: I am good thanks!
 # 简书暂不支持的内容列举
 - TOC目录
 - 时序图
+
+# 图片
+![enter description here][2]
+
+
+  [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
+  [2]: ./images/1504367418411.jpg
