@@ -111,6 +111,14 @@ GitHub|CCC|2017
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 ```
 
+带编号的公式
+```mathjax!
+\begin{equation}
+\int_0^\infty \frac{x^22}{e^x-1}\,dx = \frac{\pi^4}{15}\label{ref1}
+\end{equation}
+```
+
+
 ## 高效绘图
 ### 流程图
 ```flow
