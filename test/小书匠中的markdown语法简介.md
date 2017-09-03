@@ -57,8 +57,6 @@ SELECT 'drop table '||owner||'.'||table_name||';'
 ## 配图
 小书匠中可直接截屏粘贴，支持七牛云等外部图床
 
-![七牛云][1]
-
 ![本地存储][2]
 
 ## 表格
@@ -101,7 +99,7 @@ GitHub|CCC|2017
 ## 待办列表
 - [ ] 更新下一版笔记
 - [x] 添加toDoList
-- [x] 添加搞笑绘图
+- [x] 添加高效绘图
 
 
 ## 支持mathjax公式
@@ -216,5 +214,4 @@ gantt
 ~~下面的链接标记插入的图片，不会展示~~
 
 
-  [1]: http://ovoxywoe6.bkt.clouddn.com/xiaoshuwu/1504424143369.jpg
   [2]: ./images/1504428683596.jpg
