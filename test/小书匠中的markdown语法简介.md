@@ -172,7 +172,7 @@ C-> B: Response
 B-> A: Forward response
 ```
 
-甘特图 ------------------------
+甘特图
 ```mermaid!
 gantt
     dateFormat  YYYY-MM-DD
