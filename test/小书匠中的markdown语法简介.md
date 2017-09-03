@@ -199,6 +199,12 @@ gantt
 }
 ```
 
+## HTML
+```markdown
+<div class="hey">Hello world</div>
+```
+[支持的html标签](https://github.com/github/markup/tree/master#html-sanitization)
+
 【全文完】
 
 ~~下面的链接标记插入的图片，不会展示~~
