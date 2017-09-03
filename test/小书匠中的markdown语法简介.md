@@ -92,17 +92,7 @@ GitHub|CCC|2017
 >> 树
 >>> 二叉树
 
-
-## 时序图
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-
-</br>
-
--------------------
+---
 # 高阶语法
 > 为码字添色，但部分markdown编辑器可能不支持
 
