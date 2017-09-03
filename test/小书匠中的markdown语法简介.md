@@ -99,7 +99,7 @@ GitHub|CCC|2017
 ## 待办列表
 - [ ] 更新下一版笔记
 - [x] 添加toDoList
-- [x] 添加建议绘图
+- [x] 添加搞笑绘图
 
 
 ## 支持mathjax公式
@@ -207,11 +207,7 @@ gantt
 }
 ```
 
-## HTML
-```markdown
-<div class="hey">Hello world</div>
-```
-[支持的html标签](https://github.com/github/markup/tree/master#html-sanitization)
+
 
 【全文完】
 
